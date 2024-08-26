@@ -10,3 +10,4 @@ except Exception as e:
     __commit__ = "COMMIT_HASH_PLACEHOLDER"
 
 __version__ = "0.5.4"
+# test v0.5.4 version
